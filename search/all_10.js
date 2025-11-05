@@ -1,12 +1,16 @@
 var searchData=
 [
-  ['search_0',['Search',['../classBTree.html#aa3bf9151bd0fad63517dacb83dcb2546',1,'BTree::Search()'],['../classCBTreePage.html#a517371a189939644cf4400dd69de4d8b',1,'CBTreePage::Search(const keyType &amp;key, ObjIDType &amp;ObjID)']]],
-  ['setmaxkeysforchilds_1',['SetMaxKeysForChilds',['../classCBTreePage.html#a9ab00bd39add92eb106b5ea05d13b378',1,'CBTreePage']]],
-  ['setnext_2',['SetNext',['../classDLLNode.html#a26e7b80888d8c73c1c80b42fcc14ee2b',1,'DLLNode']]],
-  ['setpchild_3',['setpChild',['../classCBinaryTreeNode.html#af8a8fd7dbcccbd6954bc022d913a5eb7',1,'CBinaryTreeNode']]],
-  ['setprev_4',['SetPrev',['../classDLLNode.html#ad831c778900f26be8e9d769b18421fda',1,'DLLNode']]],
-  ['size_5',['size',['../classCBinaryTree.html#adfca1c8a4f3320e68f341b7a8a908881',1,'CBinaryTree::size()'],['../classBTree.html#a2759e80ecb12915459e89022519eea76',1,'BTree::size()'],['../classCVector.html#aefa112a5b6c6acab865f44adb6241410',1,'CVector::size()']]],
-  ['splitchild_6',['SplitChild',['../classCBTreePage.html#a6a5a3cc493d12bb0d53c8e191ce88d01',1,'CBTreePage']]],
-  ['splitpageinto3_7',['SplitPageInto3',['../classCBTreePage.html#a90ec41d4d88f94c8a8581f26e3182323',1,'CBTreePage']]],
-  ['splitroot_8',['SplitRoot',['../classCBTreePage.html#a25ce9765750923221dabbbc2cf049bc4',1,'CBTreePage']]]
+  ['rbegin_0',['rbegin',['../classCDoubleLinkedList.html#aa2925dbc51bb020917357d5b7640eb10',1,'CDoubleLinkedList']]],
+  ['read_1',['Read',['../classCBinaryTree.html#a53d9d40c1ad936234e96ff2e7c54efca',1,'CBinaryTree::Read()'],['../classCDoubleLinkedList.html#abaa561840b908ffc8cde7ef34454ec56',1,'CDoubleLinkedList::Read()'],['../classCLinkedList.html#a6f8362fcf78e774492ba4a4a0b5747f6',1,'CLinkedList::Read()']]],
+  ['readme_2emd_2',['README.md',['../README_8md.html',1,'']]],
+  ['redistributel2r_3',['RedistributeL2R',['../classCBTreePage.html#a6f63f587ea032d81cc4359ff0f4662e8',1,'CBTreePage']]],
+  ['redistributer2l_4',['RedistributeR2L',['../classCBTreePage.html#ab581f5c827c5b8edec5e79737ad12d32',1,'CBTreePage']]],
+  ['redistributewith1brother_5',['RedistributeWith1Brother',['../classCBTreePage.html#ad2d5711b8cc6d980cb3718670649d862',1,'CBTreePage']]],
+  ['redistributewith2brothers_6',['RedistributeWith2Brothers',['../classCBTreePage.html#ac2084083de43832e0a723624c2956836',1,'CBTreePage']]],
+  ['ref_7',['Ref',['../types_8h.html#adc90a1f57313299de575a8b66526a96a',1,'types.h']]],
+  ['remove_8',['Remove',['../classBTree.html#a05ef25bf978ab76ee01b21f76cb3dbdd',1,'BTree::Remove()'],['../classCBTreePage.html#af81d245adfaabedcf75c3810c8ea0b3d',1,'CBTreePage::Remove()']]],
+  ['remove_9',['remove',['../btreepage_8h.html#a73cd4fa0f275e25b629b57369155001f',1,'btreepage.h']]],
+  ['rend_10',['rend',['../classCDoubleLinkedList.html#a000437446081b80ca29f4518b3dfb7d0',1,'CDoubleLinkedList']]],
+  ['reset_11',['Reset',['../classCBTreePage.html#a4db48c49a1b2fcee702b8b0e4cd44479',1,'CBTreePage']]],
+  ['resize_12',['resize',['../classCVector.html#a55ce127fdcdf34a74c10b0848a66b048',1,'CVector']]]
 ];

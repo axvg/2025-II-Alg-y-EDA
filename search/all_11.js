@@ -1,10 +1,12 @@
 var searchData=
 [
-  ['t_0',['T',['../structBinaryTreeAscTraits.html#acd031812ae023ade4c43748c341d2cb2',1,'BinaryTreeAscTraits::T()'],['../structBinaryTreeDescTraits.html#a0340614d5662b96f46d9e9d6ce949504',1,'BinaryTreeDescTraits::T()']]],
-  ['t1_1',['T1',['../types_8h.html#afd6b2936f7702cb6c8971d7ac90e6ff5',1,'types.h']]],
-  ['t2_2',['T2',['../types_8h.html#aaaf0a3a6a9c861dea1c5345e75e44833',1,'types.h']]],
-  ['tagobjectinfo_3',['tagObjectInfo',['../structtagObjectInfo.html',1,'tagObjectInfo&lt; keyType, ObjIDType &gt;'],['../structtagObjectInfo.html#aeb6479ebf0348b12ae55f2db8f6e73a3',1,'tagObjectInfo::tagObjectInfo(const keyType &amp;_key, ObjIDType _ObjID)'],['../structtagObjectInfo.html#a9d8527903439c1641022a9a6f547b555',1,'tagObjectInfo::tagObjectInfo(const tagObjectInfo &amp;objInfo)'],['../structtagObjectInfo.html#a444e676616f18959ac837d17aefb5408',1,'tagObjectInfo::tagObjectInfo()']]],
-  ['traits_2eh_4',['traits.h',['../traits_8h.html',1,'']]],
-  ['treatunderflow_5',['TreatUnderflow',['../classCBTreePage.html#a025a25cde873b963c696cad430882be5',1,'CBTreePage']]],
-  ['types_2eh_6',['types.h',['../types_8h.html',1,'']]]
+  ['search_0',['Search',['../classBTree.html#aa3bf9151bd0fad63517dacb83dcb2546',1,'BTree::Search()'],['../classCBTreePage.html#a517371a189939644cf4400dd69de4d8b',1,'CBTreePage::Search(const keyType &amp;key, ObjIDType &amp;ObjID)']]],
+  ['setmaxkeysforchilds_1',['SetMaxKeysForChilds',['../classCBTreePage.html#a9ab00bd39add92eb106b5ea05d13b378',1,'CBTreePage']]],
+  ['setnext_2',['SetNext',['../classDLLNode.html#a26e7b80888d8c73c1c80b42fcc14ee2b',1,'DLLNode']]],
+  ['setpchild_3',['setpChild',['../classCBinaryTreeNode.html#af8a8fd7dbcccbd6954bc022d913a5eb7',1,'CBinaryTreeNode']]],
+  ['setprev_4',['SetPrev',['../classDLLNode.html#ad831c778900f26be8e9d769b18421fda',1,'DLLNode']]],
+  ['size_5',['size',['../classCBinaryTree.html#adfca1c8a4f3320e68f341b7a8a908881',1,'CBinaryTree::size()'],['../classBTree.html#a2759e80ecb12915459e89022519eea76',1,'BTree::size()'],['../classCVector.html#aefa112a5b6c6acab865f44adb6241410',1,'CVector::size()']]],
+  ['splitchild_6',['SplitChild',['../classCBTreePage.html#a6a5a3cc493d12bb0d53c8e191ce88d01',1,'CBTreePage']]],
+  ['splitpageinto3_7',['SplitPageInto3',['../classCBTreePage.html#a90ec41d4d88f94c8a8581f26e3182323',1,'CBTreePage']]],
+  ['splitroot_8',['SplitRoot',['../classCBTreePage.html#a25ce9765750923221dabbbc2cf049bc4',1,'CBTreePage']]]
 ];
