@@ -5,7 +5,7 @@ on:
     branches:
       - main
       - master
-      - 'docs*' # all branches starting with 'docs' will trigger the workflow
+      - 'doc*'  # all branches starting with 'doc' will also trigger the workflow
 
   workflow_dispatch:
 
