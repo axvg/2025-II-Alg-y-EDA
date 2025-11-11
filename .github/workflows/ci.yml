@@ -1,10 +1,20 @@
 name: doxygen gh
 
-on: push
+on:
+  push:
+    branches:
+      - main
+      - master
+
+  workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
+    environment:
+      name: github-page-env
+
     permissions:
       contents: write
     steps:
