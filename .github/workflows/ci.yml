@@ -3,7 +3,7 @@ name: doxygen gh
 on:
   push:
     branches:
-      - 'doc*'  # all branches starting with 'doc' will also trigger the workflow
+      - 'doc*'  # all branches starting with 'doc' will trigger the workflow
 
 jobs:
   deploy:
